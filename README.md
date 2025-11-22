@@ -1,11 +1,11 @@
-# Hi there 👋, I'm Ian Katengeza
+# Hi there 👋, I'm Ian Richards
 
 **Software Developer | Operations Associate**  
 _Passionate about coding, crunching numbers, and innovation_  
 📍 Lilongwe, Central Region, Malawi  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ian-katengeza-2529a0206)  
-✉️ iankatengeza@gmail.com | 📱 +265 986 101 535  
+✉️ iankatengeza@gmail.com | 📱 +265-986-101-535  
 
 ---
 
@@ -80,11 +80,7 @@ I’ve progressed from IT Assistant → Junior Software Developer while also gai
 ---
 
 ### 🔥 GitHub Stats (Optional – add if you want dynamic cards)
-<!--
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" />
--->
-
-Feel free to replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username and uncomment the lines if you’d like live stats!
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=monarch-ian471&show_icons=true&theme=dark&hide_border=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monarch-ian471&theme=dark&hide_border=true" />
 
 ---
