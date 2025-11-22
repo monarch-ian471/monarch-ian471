@@ -17,14 +17,12 @@ I’ve progressed from IT Assistant → Junior Software Developer while also gai
 ---
 
 ### 🛠️ Top Skills
-```text
-React.js          │██████████████▒░░░░░ 90%
-React-Chart.js    │████████████▒░░░░░░░ 80%
-WebSocket         │███████████▒░░░░░░░░ 75%
-JavaScript / HTML / CSS
-Python
-MongoDB
-Git & GitHub
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React-Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-333?style=for-the-badge&logo=websocket)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🌐 Languages
 - Japanese — Elementary (JLPT N5 level in progress)  
