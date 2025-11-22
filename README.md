@@ -1,18 +1,18 @@
 # Hi there 👋, I'm Ian Richards
 
-**Software Developer | Operations Associate**  
+**Software Developer**  
 _Passionate about coding, crunching numbers, and innovation_  
 📍 Lilongwe, Central Region, Malawi  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ian-katengeza-2529a0206)  
-✉️ iankatengeza@gmail.com | 📱 +265-986-101-535  
+✉️ iankatengeza@gmail.com | 📱 _+265-986-101-535_  
 
 ---
 
 ### About Me
 I’m a programmer, tech enthusiast, and lifelong learner. My passion for Computer Science comes from seeing how technology seamlessly integrates into daily life and makes things easier for people — it’s not just ones and zeros, it’s purpose.  
 
-I’ve progressed from IT Assistant → Junior Software Developer while also gaining strong operational and administrative experience that sharpens my business insight and interpersonal skills.
+I’ve progressed from IT Assistant → Junior Software Developer.
 
 ---
 
