@@ -30,39 +30,6 @@ I’ve progressed from IT Assistant → Junior Software Developer while also gai
 
 ---
 
-### 💼 Professional Experience
-
-**Junior Software Developer**  
-*Umodzi Source* — Lilongwe, Malawi  
-*Jul 2024 – Present*  
-- Building SYNERGY’s core systems and mobile app (React.js frontend)  
-- Developed loyalty & awards program frontend for two major hotels  
-- Debugged and optimized existing systems under active development  
-- Conducted project analysis to deliver effective, scalable solutions  
-
-**Operations Associate**  
-*SYNERGY* — Lilongwe, Malawi  
-*Jan 2024 – Present*  
-- Streamline project and office budgets, optimize resource allocation, and reduce costs  
-- Negotiate and manage contracts with clients and vendors  
-- Oversee multiple departments for seamless coordination and operational efficiency  
-
-**Administrative Associate**  
-*SYNERGY* — Lilongwe, Malawi  
-*Nov 2019 – Dec 2023*  
-- Improved customer retention through streamlined processes and clear communication  
-- Built strong local & international relationships — contributed to **25% sales growth**  
-- Maintained secure, organized documentation and filing systems  
-
-**IT Assistant Intern**  
-*SYNERGY / DMI St. John the Baptist University* — Lilongwe, Malawi  
-*Feb 2024*  
-- Secured servers, troubleshot email systems, ensured reliable connectivity  
-- Debugged and optimized Learning Management System (LMS)  
-- Implemented maintenance and SEO improvements for better performance  
-
----
-
 ### 🎓 Education
 **Bachelor of Science in Computer Science**  
 *DMI St. John the Baptist University* — Lilongwe, Malawi  
@@ -71,15 +38,16 @@ I’ve progressed from IT Assistant → Junior Software Developer while also gai
 ---
 
 ### 📜 Certifications
-- Python for Non-Programmers  
-- Python Essential Training  
 - Artificial Intelligence Fundamentals and State Space Search  
 - MongoDB for SQL Experts  
-- Python Object-Oriented Programming (2020)  
+- Python Object-Oriented Programming (2020)
+- Data Visualization and Dashboards with Excel and Cognos
+- Microservices
+- 
 
 ---
 
-### 🔥 GitHub Stats (Optional – add if you want dynamic cards)
+### 🔥 GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=monarch-ian471&show_icons=true&theme=dark&hide_border=true" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monarch-ian471&theme=dark&hide_border=true" />
 
