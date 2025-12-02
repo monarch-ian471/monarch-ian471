@@ -44,6 +44,7 @@ I’ve progressed from IT Assistant → Junior Software Developer.
 - Python Object-Oriented Programming (2020)
 - Data Visualization and Dashboards with Excel and Cognos
 - Microservices
+- Diploma in Cybersecurity 
 
 ---
 
