@@ -34,7 +34,7 @@ I’ve progressed from IT Assistant → Junior Software Developer.
 ### 🎓 Education
 **Bachelor of Science in Computer Science**  
 *DMI St. John the Baptist University* — Lilongwe, Malawi  
-*June 2022 – January 2026 (Expected)*  
+*June 2022 –  2026 (Expected)*  
 
 ---
 
